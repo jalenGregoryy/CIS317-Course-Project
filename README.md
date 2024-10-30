@@ -1,1 +1,1 @@
-# CIS317-Course-Project
+# Game store
