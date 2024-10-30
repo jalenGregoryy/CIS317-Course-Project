@@ -28,3 +28,4 @@ shopping cart feature for users to select and purchase games.
 - **Agile Methodology**: Emphasizing iterative development, continuous feedback,
 and collaboration.
 ## Link to Project
+https://github.com/jalenGregoryy/Game-Store.git
