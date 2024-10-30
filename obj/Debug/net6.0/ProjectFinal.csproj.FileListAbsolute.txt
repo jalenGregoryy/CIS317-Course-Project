@@ -1,0 +1,15 @@
+C:\CIS317\ProjectFinal\bin\Debug\net6.0\ProjectFinal.exe
+C:\CIS317\ProjectFinal\bin\Debug\net6.0\ProjectFinal.deps.json
+C:\CIS317\ProjectFinal\bin\Debug\net6.0\ProjectFinal.runtimeconfig.json
+C:\CIS317\ProjectFinal\bin\Debug\net6.0\ProjectFinal.dll
+C:\CIS317\ProjectFinal\bin\Debug\net6.0\ProjectFinal.pdb
+C:\CIS317\ProjectFinal\obj\Debug\net6.0\ProjectFinal.csproj.AssemblyReference.cache
+C:\CIS317\ProjectFinal\obj\Debug\net6.0\ProjectFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\CIS317\ProjectFinal\obj\Debug\net6.0\ProjectFinal.AssemblyInfoInputs.cache
+C:\CIS317\ProjectFinal\obj\Debug\net6.0\ProjectFinal.AssemblyInfo.cs
+C:\CIS317\ProjectFinal\obj\Debug\net6.0\ProjectFinal.csproj.CoreCompileInputs.cache
+C:\CIS317\ProjectFinal\obj\Debug\net6.0\ProjectFinal.dll
+C:\CIS317\ProjectFinal\obj\Debug\net6.0\refint\ProjectFinal.dll
+C:\CIS317\ProjectFinal\obj\Debug\net6.0\ProjectFinal.pdb
+C:\CIS317\ProjectFinal\obj\Debug\net6.0\ProjectFinal.genruntimeconfig.cache
+C:\CIS317\ProjectFinal\obj\Debug\net6.0\ref\ProjectFinal.dll
