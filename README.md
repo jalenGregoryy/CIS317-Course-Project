@@ -23,4 +23,4 @@ Language Used
 Development Process Used
 Agile Methodology: Emphasizing iterative development, continuous feedback, and collaboration.
 Link to Project
-https://github.com/jalenGregoryy/CIS317-Course-Project/tree/master
+https://github.com/jalenGregoryy/Game-Store.git
